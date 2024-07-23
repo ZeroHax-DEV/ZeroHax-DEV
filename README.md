@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/ZeroHaxJI"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://t.me/ZeroHaxJI"><img src="ani-git.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://t.me/ZeroHaxJI">zerohax</a>!</h1>
