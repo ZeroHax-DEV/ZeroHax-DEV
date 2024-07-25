@@ -14,7 +14,7 @@
   <strong><a href="https://discord.gg/7vRHUspD">Discord</a></strong> |
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Web Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently working on Software, Tools, Anime/Manga, Web Dev, and Bots.</p>
 
 <!--
 **yuna0x0/yuna0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
